@@ -1,0 +1,6 @@
+@import "components/property.css";
+
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}

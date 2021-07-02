@@ -1,0 +1,10 @@
+.property-item{
+    margin-bottom: 30px;
+}
+.property-item img{
+    max-width: 100%;
+}
+
+.property-table{
+    margin:20px 0;
+}
